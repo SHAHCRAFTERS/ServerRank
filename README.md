@@ -22,4 +22,4 @@
 * **서버내 메세지**
 <br>
 
-![](https://i.imgur.com/UiZVRVj.jpg)
+![](https://github.com/UnixTeamAdmin/ServerRank/blob/master/picture/server.png)
