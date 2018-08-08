@@ -11,6 +11,15 @@
 <br>
 <br>
 
-* **Version : 1.2 - 사이트에 등록하지 않은 서버 사용 가능**
+* **등록되지 않은 서버일 때 (1.2v ~)**
+<br>
+
+![](https://github.com/UnixTeamAdmin/ServerRank/blob/master/picture/register.png)
+* **콘솔내 메세지**
+<br>
+
+![](https://github.com/UnixTeamAdmin/ServerRank/blob/master/picture/rank.png)
+* **서버내 메세지**
+<br>
 
 ![](https://i.imgur.com/UiZVRVj.jpg)
